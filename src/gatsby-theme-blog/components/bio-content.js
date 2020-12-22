@@ -8,11 +8,9 @@ import { Styled } from "theme-ui"
 export default function Bio() {
   return (
     <>
-      This is where <Styled.a href="http://example.com/">your name</Styled.a>
-      {` `}
-      goes.
+      Planning analytics workspace blog by <Styled.a href="https://www.linkedin.com/in/edward-stuart-46605126/">Edd Stuart</Styled.a>
       <br />
-      Or whatever, you make the rules.
+      Focusing on features available as part of the IBM Planning analytics suite.
     </>
   )
 }
