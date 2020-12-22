@@ -7,17 +7,18 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Planning analytics with workspace blog`,
+    author: `Edward Stuart`,
+    description: `A blog of tips, tricks, tutorials and examples for IBM Planning Analytics and IBM Planning analytics workspace`,
+    siteURL: `www.ydag.co.uk`,
     social: [
       {
         name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        url: `https://twitter.com/edd_stuart`,
       },
       {
         name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        url: `https://github.com/eddstuart`,
       },
     ],
   },
